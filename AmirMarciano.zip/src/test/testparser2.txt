@@ -1,0 +1,27 @@
+//assign [ + ( 5, 6 ) to x ]
+
+//print ( * ( x, y ) )
+
+//read ( a, b, c )
+/*
+for (i := + ( 1, 2 ); == x y) do {
+    if (<= a b) {
+        assign [ - 3 4 to z ]
+    }
+    else
+        print ( z )
+    end
+}
+
+
+if (<> a c) {
+    assign [ * ( 2, 3, 4 ) to w ]
+}
+else
+    read ( d )
+end
+*/
+
+assign [1 to a];
+assign [2 to b];
+assign [3 to c]
